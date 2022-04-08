@@ -1,0 +1,27 @@
+{
+  "name": "mirage-pretender",
+  "version": "0.0.1",
+  "description": "Allow mirage to use Pretender as the interceptor",
+  "main": "index.js",
+  "keywords": [
+    "pretender",
+    "prototype",
+    "server",
+    "testing"
+  ],
+  "scripts": {
+    "test": "yarn"
+  },
+  "dependencies": {
+    "@miragejs/pretender-node-polyfill": "^0.1.0"
+  },
+  "devDependencies": {
+    "pretender": "^3.4.7"
+  },
+  "peerDependancies": {
+    "miragejs": "~0.1.43",
+    "pretender": "^3.4.7"
+  },
+  "author": "Brian Gantzler",
+  "license": "MIT"
+}
