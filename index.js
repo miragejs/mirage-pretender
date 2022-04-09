@@ -1,3 +1,3 @@
 "use strict";
 
-module.exports = require("./lib/msw-config");
+module.exports = require("./lib/pretender-config");
