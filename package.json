@@ -1,6 +1,6 @@
 {
   "name": "mirage-pretender",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Allow mirage to use Pretender as the interceptor",
   "main": "index.js",
   "keywords": [
