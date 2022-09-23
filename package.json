@@ -21,6 +21,7 @@
     "babel-jest": "^27.5.1",
     "jest": "^27.5.1",
     "jest-extended": "^0.11.2",
+    "mirage-interceptor-test": "https://github.com/mrloop/mirage-interceptor-test.git",
     "miragejs": "~0.1.43",
     "pretender": "^3.4.7"
   },
