@@ -6,6 +6,7 @@ let browserEnvironment = {
   testMatch: [
     "**/__tests__/browser-only/**/*-test.[jt]s?(x)",
   ],
+  transformIgnorePatterns: ['/node_modules/(?!(mirage-interceptor-test)/)'],
 };
 
 module.exports = {

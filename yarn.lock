@@ -3284,6 +3284,12 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
+"mirage-interceptor-test@https://github.com/mrloop/mirage-interceptor-test.git":
+  version "0.0.1"
+  resolved "https://github.com/mrloop/mirage-interceptor-test.git#f1d562896c12663be84cc6725191da6d39b616ab"
+  dependencies:
+    "@miragejs/pretender-node-polyfill" "^0.1.0"
+
 miragejs@~0.1.43:
   version "0.1.43"
   resolved "https://registry.yarnpkg.com/miragejs/-/miragejs-0.1.43.tgz#47a8546b9e3489f806073e681f380ccfe13d757d"
